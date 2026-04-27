@@ -1,0 +1,7 @@
+.playwright-cli/
+output/
+.local-server.pid
+.local-server.log
+.local-server.err.log
+Thumbs.db
+Desktop.ini
